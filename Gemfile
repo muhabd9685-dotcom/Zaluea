@@ -6,3 +6,6 @@ gem "csv"
 gem "logger"
 gem "base64"
 gem "bigdecimal"
+
+# Theme
+gem "jekyll-theme-cayman"
